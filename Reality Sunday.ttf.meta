@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0a4a936ba6e4cc14f85a4085e0b7bb66
+timeCreated: 1513018715
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Reality Sunday
+  fontNames:
+  - Reality Sunday
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
